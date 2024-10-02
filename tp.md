@@ -120,3 +120,7 @@ Fixer une issue sur le projet
 ### Exo 2
 
 Créer une branche de développement
+
+### Exo 3
+
+Ajout d'une fonctionnalité dans la branche de développement
