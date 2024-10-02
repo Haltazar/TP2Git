@@ -116,3 +116,7 @@ Instructions pour contribuer au projet
 ### Exo 1
 
 Fixer une issue sur le projet
+
+### Exo 2
+
+Créer une branche de développement
