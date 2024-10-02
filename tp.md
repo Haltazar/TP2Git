@@ -110,3 +110,9 @@ Instructions pour utiliser le projet
 
 Instructions pour contribuer au projet
 ```
+
+## 4. Exos
+
+### Exo 1
+
+Fixer une issue sur le projet
