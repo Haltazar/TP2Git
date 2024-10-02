@@ -12,8 +12,13 @@ My project as for aim to learn git
 
 ## Installation
 
+Let's say it is a Next project
+
 ```bash
 git clone https://github.com/Haltazar/TP2Git.git
+
+npm install
+npm run dev
 ```
 
 ## Usage
